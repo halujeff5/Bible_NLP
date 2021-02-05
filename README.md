@@ -1,2 +1,2 @@
 # Bible_NLP
-Tried Natural Language Processing on the Bible
+Natural Language Processing and Sentiment analysis on the Bible
